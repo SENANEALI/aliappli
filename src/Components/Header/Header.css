@@ -1,0 +1,9 @@
+.Header{
+    background-color: blue;
+    
+}
+
+.Header p {
+    display: inline-block;
+}
+
